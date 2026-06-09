@@ -1,6 +1,6 @@
 module cattlecloud.net/go/circlebuffer
 
-go 1.24
+go 1.26
 
 require github.com/shoenig/test v1.13.2
 
